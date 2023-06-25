@@ -1,1 +1,2 @@
 # PythonProject
+ Face recognition using Python is a fascinating project that involves training a computer to recognize human faces. This can be done using machine learning algorithms and tools like OpenCV. Once the computer has been trained, it can identify faces in images or videos, and even match them to a database of known faces. This technology is being used in many fields, from security to social media, and has the potential to revolutionize the way we interact with technology.
